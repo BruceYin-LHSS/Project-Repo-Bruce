@@ -1,2 +1,1 @@
-This is my PCB
-The board takes the shape of a pumpkin 
+This is my PCB,the board takes the shape of a pumpkin 
